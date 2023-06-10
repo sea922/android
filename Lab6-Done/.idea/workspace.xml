@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc1a5c28-73a5-4d8c-b744-1dc1de4cc49a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/geekym/face_recognition_engage/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/geekym/face_recognition/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/geekym/face_recognition_engage/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/geekym/face_recognition/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Authentication/Forgot_Password_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Authentication/Forgot_Password_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Authentication/SignIn_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Authentication/SignIn_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Authentication/SignUp_First_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Authentication/SignUp_First_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Authentication/SignUp_Second_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Authentication/SignUp_Second_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Homescreen/Attendance/Attendance_Result_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Homescreen/Attendance/Attendance_Result_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Homescreen/Attendance/Attendance_Scanner_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Homescreen/Attendance/Attendance_Scanner_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Homescreen/home_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Homescreen/home_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Settings/AccountSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Settings/AccountSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Settings/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Settings/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Settings/settings_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Settings/settings_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Status/Attendees/Attendees.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Status/Attendees/Attendees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Status/Attendees/ModelClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Status/Attendees/ModelClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Status/Attendees/myAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Status/Attendees/myAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Status/Progress_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Status/Progress_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Status/status_Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Status/status_Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/PDFs/Add_PDF_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/PDFs/Add_PDF_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/PDFs/PDFAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/PDFs/PDFAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/PDFs/PDFsModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/PDFs/PDFsModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/PDFs/PDFs_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/PDFs/PDFs_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/StudyMode/StudyProgress_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/StudyMode/StudyProgress_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/StudyMode/StudyTimer_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/StudyMode/StudyTimer_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeFragments/Tools/tools_fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeFragments/Tools/tools_fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/HomeScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Introduction/IntroViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Introduction/IntroViewPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Introduction/ScreenItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Introduction/ScreenItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Introduction/Splash_Screen_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Introduction/Splash_Screen_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Introduction/onboarding.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Introduction/onboarding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/SimilarityClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/SimilarityClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition_engage/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/geekym/face_recognition/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/geekym/face_recognition_engage/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/geekym/face_recognition/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Admin\.android\avd\Pixel_6_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QyWChw5TryHPLHVvthh8sD5pb0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/AndroidStudioProjects/Lab6&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Face_Recognition.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1a5c28-73a5-4d8c-b744-1dc1de4cc49a" name="Changes" comment="" />
+      <created>1686326175868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686326175868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
