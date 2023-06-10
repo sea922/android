@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "516867638748",
+    "project_id": "mbapp-92e90",
+    "storage_bucket": "mbapp-92e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516867638748:android:9362d6989192a22dff3b19",
+        "android_client_info": {
+          "package_name": "com.example.patientdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516867638748-2fve8as6bb6rfpiq58m61t6lc8rlnj7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientdemo",
+            "certificate_hash": "17a71ae1fc8f6300d57bb65e8869060605f2d621"
+          }
+        },
+        {
+          "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnO0J7ppfa6qbZezB3aMuzqVqBQoq7qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516867638748:android:6ebdd9386cacadf1ff3b19",
+        "android_client_info": {
+          "package_name": "com.example.seeStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516867638748-cdo8e4jn5pfo3kn9ml19kn54midouig4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seeStore",
+            "certificate_hash": "17a71ae1fc8f6300d57bb65e8869060605f2d621"
+          }
+        },
+        {
+          "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnO0J7ppfa6qbZezB3aMuzqVqBQoq7qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516867638748:android:77603e495042d571ff3b19",
+        "android_client_info": {
+          "package_name": "com.geekym.face_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnO0J7ppfa6qbZezB3aMuzqVqBQoq7qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516867638748-1ihapae4r9onmlm2m5a28hilcrhraho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geekym.face_recognition">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="Face_Reco"
+        android:roundIcon="@drawable/app_icon"
+        android:theme="@style/Theme.Face_Recognition_Engage">
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Tools.StudyMode.StudyProgress_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Tools.StudyMode.StudyTimer_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Settings.AccountSettings"
+            android:exported="false" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Settings.Profile"
+            android:exported="false" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Tools.PDFs.Add_PDF_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Tools.PDFs.PDFs_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Status.Progress_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Status.Attendees.Attendees"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Homescreen.Attendance.Attendance_Result_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeFragments.Homescreen.Attendance.Attendance_Scanner_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.Authentication.Forgot_Password_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.Authentication.SignUp_First_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.Authentication.SignUp_Second_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.Authentication.SignIn_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.Introduction.Splash_Screen_Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.geekym.face_recognition.Introduction.onboarding"
+            android:exported="true" />
+        <activity
+            android:name="com.geekym.face_recognition.HomeScreen"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
+            android:value="face" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
